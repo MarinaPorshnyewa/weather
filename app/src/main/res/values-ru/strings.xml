@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="splash_name">Хорошая погода</string>
+    <string name="weather_forecast">Прогноз погоды</string>
+    <string name="cities">Города</string>
+    <string name="setting">Настройки</string>
+    <string name="add_city">Добавить город</string>
+    <string name="dialog_title">Город добавлен</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="refresh">Обновить</string>
+    <string name="time">часы</string>
+    <string name="days">дни</string>
+</resources>

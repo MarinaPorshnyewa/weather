@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_50dp">50dp</dimen>
+    <dimen name="marginTop_100dp">100dp</dimen>
+    <dimen name="marginStart_30dp">30dp</dimen>
+    <dimen name="size_for_picture_100dp">100dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+</resources>

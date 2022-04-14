@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="splash_name">Good Weather</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="cities">Cities</string>
+    <string name="setting">Setting</string>
+    <string name="add_city">Add city</string>
+    <string name="dialog_title">City added</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="refresh">Refresh</string>
+    <string name="time">time</string>
+    <string name="days">days</string>
+
+</resources>
